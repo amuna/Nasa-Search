@@ -1,6 +1,9 @@
 # Space-Search
 A simple app that receives search results from NASA's API and displays them to the user within an MVVM design pattern that uses android architecture components, RxJava, Retrofit, Glide and RecyclerView with Fragments.
 
+## Playstore download link
+* https://play.google.com/store/apps/details?id=com.space.search&hl=en_CA&gl=US
+
 <p align="center">
   <img src="https://media.giphy.com/media/LSL7FiLwWmegiSnaM6/giphy.gif" width="360" height="620" />
 </p>
